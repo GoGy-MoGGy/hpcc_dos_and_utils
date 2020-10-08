@@ -9,9 +9,6 @@
 — CheckIt 
 — Debug 
 — TurboDebugger
-— Games 
-	— doom
-	— quake
 3. Выполнить зачине лабораторной работы 
 4. Радоваться жизни 
 
