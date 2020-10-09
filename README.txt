@@ -16,3 +16,5 @@
 02.10.20 04:12 AM
 
 С наилучшими пожеланиями,группа Е-74/75
+
+Репозиторий на GitHub: https://github.com/GoGy-MoGGy/hpcc_dos_and_utils

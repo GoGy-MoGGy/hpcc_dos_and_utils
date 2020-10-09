@@ -1,1 +1,1 @@
-dosbox.exe vc.com
+dosbox.exe tmp.bat
