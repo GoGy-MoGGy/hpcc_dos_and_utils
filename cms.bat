@@ -1,0 +1,5 @@
+@echo off
+C:\TASM\BIN\TASM.EXE %1%.ASM
+C:\TASM\BIN\TLINK.EXE %1%.OBJ
+
+ 
