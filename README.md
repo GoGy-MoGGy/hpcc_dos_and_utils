@@ -18,3 +18,6 @@
 С наилучшими пожеланиями,группа Е-74/75
 
 Репозиторий на GitHub: https://github.com/GoGy-MoGGy/hpcc_dos_and_utils
+
+
+![alt text](https://github.com/GoGy-MoGGy/hpcc_dos_and_utils/blob/master/test.png)
