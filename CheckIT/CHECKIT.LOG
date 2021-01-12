@@ -1,0 +1,39 @@
+                          CheckIt 4.1 Activity Log
+
+                          Serial Number: 00-082670
+                             1/12/2021 15:38:01
+
+                                    LSW
+                                    CUBE
+
+                            === MEMORY TEST ===
+
+MEMORY CONFIGURATION:
+
+    Known Memory:
+        Base        640K   From      0K to    640K   (0000000h to 009FFFFh)
+        Extended  15360K   From  1.000M to 16.000M   (0100000h to 0FFFFFFh)
+        EXPANDed  16384K   From      0K to  16384K   (0000000h to 0FFFFFFh)
+
+    Selected for Test:
+        Base        640K   From      0K to    640K   (0000000h to 009FFFFh)
+        Extended  15360K   From  1.000M to 16.000M   (0100000h to 0FFFFFFh)
+        EXPANDed  16256K   From    128K to  16384K   (0020000h to 0FFFFFFh)
+
+
+MEMORY TEST RESULTS: (QUICK TEST ONLY)
+    Program Buffers.............................................Passed
+    Base Memory.................................................Passed
+    Extended Memory.............................................Passed
+    EXPANDed Memory.............................................FAILED ***
+        ERROR at 15296K -- Ran out of EMS memory to test.
+        ERROR at 15296K -- Ran out of EMS memory to test.
+
+    High Address Lines..........................................FAILED ***
+        ERROR at 15296K -- Ran out of EMS memory to test.
+        ERROR at 15296K -- Ran out of EMS memory to test.
+
+
+
+                  *** END TESTS: 4 ERRORS ENCOUNTERED ***
+
